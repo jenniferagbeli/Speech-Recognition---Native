@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MyProject",
-    "slug": "MyProject",
+    "name": "audio-to-text",
+    "slug": "audio-to-text",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,9 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "backendUrl": "http://localhost:5000"
     }
   }
 }

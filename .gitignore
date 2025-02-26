@@ -36,3 +36,8 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+# Backend
+backend/uploads/
+backend/speech-recognition-452018-89c855e3b944[1].json
+backend/node_modules/
